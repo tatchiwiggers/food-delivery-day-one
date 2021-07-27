@@ -1,0 +1,4 @@
+id,name,cured,room_id
+1,carlos,true,1
+2,ju,false,1
+3,gabriel,false,2
